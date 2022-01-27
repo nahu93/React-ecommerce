@@ -17,7 +17,7 @@ Curso realizado en https://www.coderhouse.com/
 
 ## Deploy
 
-https://confident-brattain-900805.netlify.app/
+https://loving-albattani-d0892f.netlify.app/
 
 
 ## installation
